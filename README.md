@@ -24,7 +24,8 @@ This project is an interactive Netflix Data Analysis Dashboard created in Micros
 Netflix Titles Dataset (CSV)
 
 ## Dashboard Preview
-See **Netflix_Dashboard.png** for the dashboard screenshot.
+
+![Netflix Dashboard](Netflix_Dashboard.png)
 
 ## Author
 **Sakshi Bobade**
